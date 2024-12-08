@@ -30,5 +30,4 @@ This frontend serves as the foundation for an online fundraising platform. It ca
 
 Developer
 Name: Rounak Mishra
-Admission Number: 23SCSE1011448
-and my team!
+and team!
